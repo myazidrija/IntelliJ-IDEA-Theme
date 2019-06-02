@@ -3,7 +3,7 @@
     <property name="created">2019-05-17T13:39:47</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-05-18T12:47:04</property>
+    <property name="modified">2019-06-03T04:52:40</property>
     <property name="originalScheme">Dark purple</property>
   </metaInfo>
   <colors>
@@ -568,6 +568,11 @@
     <option name="KOTLIN_LABEL">
       <value>
         <option name="FOREGROUND" value="4dacf0" />
+      </value>
+    </option>
+    <option name="KOTLIN_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="fff522" />
       </value>
     </option>
     <option name="KOTLIN_NAMED_ARGUMENT">
