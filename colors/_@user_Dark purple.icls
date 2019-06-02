@@ -3,7 +3,7 @@
     <property name="created">2019-05-17T13:39:47</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-06-03T04:52:40</property>
+    <property name="modified">2019-06-03T06:21:55</property>
     <property name="originalScheme">Dark purple</property>
   </metaInfo>
   <colors>
@@ -554,6 +554,17 @@
     </option>
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
       <value />
+    </option>
+    <option name="KOTLIN_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="ff8d16" />
+      </value>
+    </option>
+    <option name="KOTLIN_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="fff522" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
     </option>
     <option name="KOTLIN_DYNAMIC_FUNCTION_CALL">
       <value>
