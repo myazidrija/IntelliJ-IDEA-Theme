@@ -3,7 +3,7 @@
     <property name="created">2019-05-17T13:39:47</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-06-03T06:21:55</property>
+    <property name="modified">2019-06-14T20:24:56</property>
     <property name="originalScheme">Dark purple</property>
   </metaInfo>
   <colors>
@@ -535,6 +535,17 @@
     <option name="INSTANCE_FINAL_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="4fb6ff" />
+      </value>
+    </option>
+    <option name="JAVA_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="e8951e" />
+      </value>
+    </option>
+    <option name="JAVA_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="e8951e" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JAVA_KEYWORD">
