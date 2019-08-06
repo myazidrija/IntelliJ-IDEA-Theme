@@ -1,6 +1,6 @@
 <application>
   <component name="PathMacrosImpl">
-    <macro name="KOTLIN_BUNDLED" value="F:\Program Files\Android Studio\plugins\Kotlin\kotlinc" />
+    <macro name="KOTLIN_BUNDLED" value="C:\Users\Rija's PC\.IdeaIC2019.1\config\plugins\Kotlin\kotlinc" />
     <macro name="MAVEN_REPOSITORY" value="C:\Users\Rija's PC\.m2\repository" />
   </component>
 </application>
